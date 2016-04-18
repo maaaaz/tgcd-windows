@@ -65,7 +65,7 @@ Older versions
 
 Disclaimer & licence 
 ---------------------
-* This software is provided under the original [tgcd's licence](http://tgcd.sourceforge.net)
+* This software is provided under the original [tgcd's licence](http://tgcd.sourceforge.net/#lbAI)
 * Do not use it for illegal purposes
 * I don't own anything on the tgcd brand and am not affiliated with this project
 * Last but not least, antivirus softwares might report some binaries as hacktools or even malwares: this is a known and common issue. If you don't trust this compilation: 
