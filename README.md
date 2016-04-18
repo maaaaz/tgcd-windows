@@ -15,7 +15,7 @@ Features
 Usage
 -----
 1. `git clone` the repo or download the [whole archive](https://github.com/maaaaz/tgcd-windows/archive/master.zip)
-2. Extract it and run
+2. Extract it and run it
 3. Profit
 
 
